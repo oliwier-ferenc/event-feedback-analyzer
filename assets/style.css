@@ -1,0 +1,65 @@
+
+.instruction-box {
+    background-color: var(--secondary-background-color);
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0.75rem;
+    border-radius: 0.375rem;
+    border-left: 4px solid #2196F3;
+    color: var(--text-color);
+    font-size: 0.95rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.25rem;
+}
+
+.demo-box {
+    background-color: var(--secondary-background-color);
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0.75rem;
+    border-radius: 0.375rem;
+    border-left: 4px solid #4CAF50;
+    color: var(--text-color);
+    font-size: 0.95rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.25rem;
+}
+
+.error-banner {
+    background-color: var(--secondary-background-color);
+    border-left: 5px solid #ff4b4b;
+    color: var(--text-color);
+    padding: 1rem;
+    border-radius: 0.375rem;
+    margin: 1rem 0;
+    font-size: 0.95rem;
+}
+
+.description {
+    color: var(--text-color);
+    opacity: 0.75;
+    font-size: 0.9rem;
+    margin-top: -0.5rem;
+    margin-bottom: 1rem;
+}
+
+.mock-notice {
+    background-color: #FFC1071F;
+    border-left: 4px solid #d6a928;
+    color: var(--text-color);
+    padding: 1rem;
+    border-radius: 0.375rem;
+    margin: 1rem 0;
+}
+
+.stButton > button[kind="primary"] {
+    background-color: #2196F3;
+    border-color: #2196F3;
+    color: var(--text-color);
+}
+
+.stButton > button[kind="primary"]:hover {
+    background-color: #1976D2;
+    border-color: #1976D2;
+    color: var(--text-color);
+}
