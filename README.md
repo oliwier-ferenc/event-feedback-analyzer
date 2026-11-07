@@ -7,7 +7,7 @@ An AI-powered Streamlit dashboard designed to help student organizations and eve
 ***The goal is simple:*** 
 Spend less time sorting through feedback and more time using it to improve future events.
 
-> **Live app:** Deployment coming soon.
+> **Live app:** [Open Event Feedback Analyzer](https://event-feedback-analyzer.streamlit.app/)
 
 ![Event Feedback AI Analyzer Demo](assets/images/demo.gif)
 
